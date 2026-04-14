@@ -11,7 +11,7 @@
 
 ## Скриншот приложения
 
-[App](todo_app\img\app.jpg)
+[App](img\app.jpg)
 
 ## Как запустить
 
