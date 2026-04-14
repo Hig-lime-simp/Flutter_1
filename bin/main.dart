@@ -47,5 +47,7 @@ class Todo{
   Todo({required this.id, required this.title, required this.isDone})
 
   @override
-  String toString() => "${isDone ? "+" : "-"} [$id] $title";
+  String toString() {
+    return "${isDone ? "+" : "-"} [$id] $title";
+  }
 }
